@@ -1,8 +1,8 @@
 # movies-library
 
-Movie Library.
+Movies Library.
 
-Project made to understand how carousel works menu and animation's system on react native.
+Project made to understand how carousel, menu and animation's system works on react native.
 
 email: renatomateusx@gmail.com
 phone: +55 71 9 91306561 (whatsapp)
